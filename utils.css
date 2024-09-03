@@ -1,0 +1,41 @@
+.text-center{
+    text-align: center;
+}
+.bg-black{
+    background-color: black;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center; 
+    justify-content: center;   
+}
+.height{
+    height: 90vh;
+
+}
+.width{
+width: 20vw;
+}
+.border-radius{
+    border-radius: 30px;
+}
+.padding-0{
+    padding: 0;
+}
+.bg-orange{
+    background-color: rgb(255, 145, 0);
+}
+.bg-grey{
+    background-color: rgb(143, 143, 143);
+}
+.cl-black{
+    color: black;
+}
+@media only screen and (max-width: 900px) {
+   
+  }
