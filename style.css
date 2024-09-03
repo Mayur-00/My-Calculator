@@ -58,10 +58,12 @@ html,body{
 @media only screen and (max-width: 900px) {
    .container{
     width: 60vw;
+    height: 60vh;
    }
    .btn{
-    width: 9vw;
+    width: 11vw;
     font-size: 3vw;
+    height: 6vh;
    }
    .btn-0{
     width: 20vw;
